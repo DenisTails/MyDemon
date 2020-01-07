@@ -1,0 +1,11 @@
+body{
+    background-image: url(/zvezda.gif) ;
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+    transition: 50s all;
+}
+img:hover{
+    transform: rotate(10000deg);
+}
